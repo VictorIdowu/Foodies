@@ -35,6 +35,10 @@
   position: relative;
 }
 
+.preview.noImage {
+  width: 100%;
+}
+
 .preview p {
   margin: 0;
   padding: 1rem;
